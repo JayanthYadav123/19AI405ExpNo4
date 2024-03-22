@@ -159,9 +159,7 @@ J 0 <br>
 Path found: ['A', 'F', 'G', 'I', 'J']
 
 ## Program:
-
 ```
-
 #define fuction to return neighbor and its distance
 #from the passed node
 def get_neighbors(v):
